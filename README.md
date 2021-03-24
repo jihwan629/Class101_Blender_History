@@ -50,3 +50,11 @@
 <img src="https://user-images.githubusercontent.com/31186176/112324817-83710e00-8cf6-11eb-9579-c260a00aa9d5.png" width="800"/>
  
 <br>
+
+## 캐릭터 연출
+
+<br>
+ 
+<img src="https://user-images.githubusercontent.com/31186176/112396490-93fba580-8d43-11eb-9f6c-db38b0c41be6.png" width="800"/>
+ 
+<br>
